@@ -45,8 +45,7 @@
 
 .snap {
     position: absolute;
-    width: 570px;
-    height: 342px;
+    width: 100%;
     left: 76px;
     top: 168px;
 
